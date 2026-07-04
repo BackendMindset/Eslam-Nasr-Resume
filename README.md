@@ -6,7 +6,7 @@ Junior Backend Developer (.NET)
 
 📄 Download CV:
 
-[Eslam_Nasr_Junior_Backend_Developer_CV.pdf](./Eslam_Nasr_Junior_Backend_Developer_CV.pdf)
+[Eslam_Nasr_.Net_Developer.pdf](./Eslam_Nasr_.Net_Developer.pdf)
 
 ## Links
 
